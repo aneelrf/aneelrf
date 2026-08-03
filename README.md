@@ -1,48 +1,28 @@
-````md
-<!-- Banner principal -->
 <p align="center">
-  <img src="Gemini_Generated_Image_wi0o8zwi0o8zwi0o.png" alt="Banner de Aneel Rodríguez Fabian" width="100%">
+  <img src="./Gemini_Generated_Image_wi0o8zwi0o8zwi0o.png" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">¡Hola! Soy Aneel Rodríguez Fabian 👩🏽‍💻</h1>
 
-<h3 align="center">
-  Especialista en Soluciones Tecnológicas y Transformación Digital
-</h3>
-
-<p align="center">
-  Implementación de sistemas · Gestión de proyectos · Análisis funcional · Desarrollo e integración
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=63A98B&center=true&vCenter=true&width=700&lines=Turning+ideas+into+real+solutions.;Tecnolog%C3%ADa+que+mejora+procesos+y+experiencias.;Healthcare+IT+%C2%B7+Software+%C2%B7+Infrastructure" alt="Typing SVG">
-</p>
-
----
 
 ## 🌿 Sobre mí
 
-Soy profesional de tecnología enfocada en la implementación de sistemas, transformación digital y desarrollo de soluciones que optimizan procesos reales.
+Soy especialista en soluciones tecnológicas y transformación digital, con experiencia en implementación de sistemas, análisis funcional, gestión de proyectos e integración de plataformas.
 
-Mi experiencia combina el análisis funcional, la coordinación de proyectos, el soporte tecnológico, la integración de plataformas y la infraestructura necesaria para llevar una solución desde la idea hasta producción.
+Me enfoco en convertir procesos complejos en soluciones claras, funcionales y fáciles de usar, especialmente en entornos de salud y tecnología.
 
-```yaml
-nombre: Aneel Rodríguez Fabian
-usuario: aneelrf
+<p align="center">
+  <img src="https://img.shields.io/badge/Implementación%20de%20sistemas-7BAE98?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Gestión%20de%20proyectos-91BFA9?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Análisis%20funcional-A4C3B2?style=for-the-badge&logoColor=white">
+</p>
 
-especialidades:
-  - Implementación de sistemas
-  - Gestión de proyectos tecnológicos
-  - Análisis funcional
-  - Desarrollo e integración
-  - Healthcare IT
-  - Infraestructura y despliegue
+<p align="center">
+  <img src="https://img.shields.io/badge/Healthcare%20IT-52796F?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Desarrollo%20e%20integración-6B9080?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Infraestructura%20tecnológica-7BAE98?style=for-the-badge&logoColor=white">
+</p>
 
-enfoque:
-  - Crear soluciones útiles
-  - Mejorar procesos
-  - Simplificar experiencias
-  - Transformar ideas en resultados
+> 🌱 Creo soluciones útiles, organizadas y orientadas a mejorar procesos y experiencias.
 ````
 
 <p align="center">
