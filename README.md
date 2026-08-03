@@ -1,7 +1,7 @@
 ````md
 <!-- Banner principal -->
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner de Aneel Rodríguez Fabian" width="100%">
+  <img src="Gemini_Generated_Image_wi0o8zwi0o8zwi0o.png" alt="Banner de Aneel Rodríguez Fabian" width="100%">
 </p>
 
 <h1 align="center">¡Hola! Soy Aneel Rodríguez Fabian 👩🏽‍💻</h1>
